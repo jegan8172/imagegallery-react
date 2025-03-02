@@ -5,7 +5,8 @@ A simple and responsive image gallery built using ReactJS. This project displays
 ## Features
 
 - **Responsive Design**: The gallery adjusts to different screen sizes, ensuring a seamless experience on mobile, tablet, and desktop.
-- **Dynamic Image Loading**: Images and captions are loaded dynamically, making it easy to add or remove content.
 
-## Live Webpage
-- **Vercel link for the webpage**:(imagegallery-react-six.vercel.app)
+## Live Demo
+
+Check out the live demo of the project hosted on Vercel:  
+👉 [View Live Demo](https://imagegallery-react-six.vercel.app)
