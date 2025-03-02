@@ -17,8 +17,8 @@ const dogImages = {
 
 
 function Imggal(props){
-  return(<div style={{backgroundColor:"white",padding:"5px",textAlign:"center",marginTop:"20px",border:"solid black 1.5px"}}>
-    <img src={dogImages[props.dogname]} style={{width:"150px"}}></img>
+  return(<div style={{backgroundColor:"white",padding:"5px",textAlign:"center",marginTop:"20px",border:"solid black 1.5px",width:"22%"}}>
+    <img src={dogImages[props.dogname]} style={{width:"100%"}}></img>
     <p style={{margin:"2px"}}>{props.dogname}</p>
   </div>)
 }
